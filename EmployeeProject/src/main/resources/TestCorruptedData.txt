@@ -1,0 +1,12 @@
+
+emp_ID='223871', namePrefix='Drs.', firstName='Christene', middleInitial='O', lastName='Mattison', gender='F', email='stefan.maeda@yahoo.com', dob=1990-09-14, dateOfJoining=2015-09-13, salary=177224
+
+emp_ID='807262', namePrefix='Mr.', firstName='Stefan', middleInitial='O', lastName='TRUE', gender='M', email='stefan.maeda@yahoo.com', dob=1990-03-23, dateOfJoining=2011-11-05, salary=67028
+
+emp_ID='644265', namePrefix='Ms.', firstName='Avelina', middleInitial='I', lastName='Stoner', gender='F', email='stefan.maeda@yahoo.com', dob=1988-10-01, dateOfJoining=2010-11-30, salary=157826
+
+emp_ID='423093', namePrefix='Mr.', firstName='Eric', middleInitial='O', lastName='FALSE', gender='M', email='eric.manning@yahoo.com', dob=1980-11-02, dateOfJoining=2002-10-28, salary=149363
+
+emp_ID='338634', namePrefix='Ms.', firstName='Paz', middleInitial='T', lastName='TRUE', gender='F', email='paz.pearman@gmail.com', dob=1960-02-28, dateOfJoining=1982-05-25, salary=144804
+
+emp_ID='953724', namePrefix='Mrs.', firstName='Nanci', middleInitial='D', lastName='TRUE', gender='F', email='nanci.osorio@hotmail.com', dob=1982-07-09, dateOfJoining=2003-11-07, salary=71321
