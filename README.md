@@ -1,1 +1,8 @@
 # JavaEmployeeProject
+
+This project focuses on designing a java program which will allow a CSV file with specific data columns to be stored in a SQL database. The SQL database has been created with the columns in the correct data format and the headings unchanged from those in the CSV file. Any data in the CSV file which is duplicated in the file or in comparison to the database is not entered. Partially filled data is ignored and a specific condition on whether the last name has been entered as "True" or "False" has also been included. The program currently is not very efficient as it tests to see whether the database contains any of the data you wish to insert, as well as an issue with thread manipulation. 
+
+To use this program, simply download the EmployeeProject folder. You will need a username and password to access the database, which must be entered in the login.properties file. This can be located in the following path: EmployeeProject/src/main/resources. In this file you will also need to insert the CSV you wish to upload with the name LargeEmployeeRecords. Any corrupted data found owing to duplication, partial data entry or lastNames with the wrong data type of TRUE or False will be saved to a text file also saved in the resources folder. This is named CorruptedData.txt.
+
+For any developers who wish to modify the code, file names can be changed easily when needed, and the location of the file containing the corrupted data can be changed. The use of threads makes the program more efficient but there is a bug where different threads take a different amount of time (please see logger for more details).
+
