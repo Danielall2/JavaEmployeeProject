@@ -1,0 +1,24 @@
+
+emp_ID='17755', namePrefix='Mrs.', firstName='Merri', middleInitial='U', lastName='Mullens', gender='F', email='merri.mullens@gmail.com', dob=1963-02-24, dateOfJoining=2005-03-25, salary=126476
+
+emp_ID='27881', namePrefix='Hon.', firstName='Homer', middleInitial='K', lastName='Ramon', gender='M', email='homer.ramon@gmail.com', dob=1994-04-07, dateOfJoining=2017-03-15, salary=198321
+
+emp_ID='34716', namePrefix='Mr.', firstName='Neville', middleInitial='O', lastName='Griffis', gender='M', email='neville.griffis@gmail.com', dob=1991-07-05, dateOfJoining=2013-12-03, salary=159457
+
+emp_ID='40983', namePrefix='Mr.', firstName='Kelley', middleInitial='O', lastName='Nice', gender='M', email='kelley.nice@gmail.com', dob=1982-01-05, dateOfJoining=2007-11-28, salary=47303
+
+emp_ID='61047', namePrefix='Ms.', firstName='Stephen', middleInitial='Q', lastName='Laing', gender='F', email='stephen.laing@gmail.com', dob=1979-03-03, dateOfJoining=2008-09-12, salary=104827
+
+emp_ID='1506', namePrefix='Dr.', firstName='Stephen', middleInitial='L', lastName='Laing', gender='M', email='stephen.laing@gmail.com', dob=1984-03-21, dateOfJoining=2005-11-08, salary=162452
+
+emp_ID='2865', namePrefix='Mrs.', firstName='Merri', middleInitial='Z', lastName='Mullens', gender='F', email='merri.mullens@gmail.com', dob=1985-06-12, dateOfJoining=2015-02-18, salary=191365
+
+emp_ID='8683', namePrefix='Dr.', firstName='Homer', middleInitial='O', lastName='Ramon', gender='M', email='homer.ramon@gmail.com', dob=1991-07-09, dateOfJoining=2012-07-27, salary=104865
+
+emp_ID='17508', namePrefix='Prof.', firstName='Kelley', middleInitial='Q', lastName='Nice', gender='M', email='kelley.nice@gmail.com', dob=1992-12-02, dateOfJoining=2014-04-02, salary=174759
+
+emp_ID='23911', namePrefix='Dr.', firstName='Neville', middleInitial='I', lastName='Griffis', gender='M', email='neville.griffis@gmail.com', dob=1973-01-20, dateOfJoining=2006-05-09, salary=128888
+
+emp_ID='52004', namePrefix='Ms.', firstName='Francisca', middleInitial='B', lastName='TRUE', gender='F', email='francisca.true@bellsouth.net', dob=1976-11-22, dateOfJoining=1998-08-05, salary=149073
+
+emp_ID='65241', namePrefix='Mr.', firstName='Clarence', middleInitial='H', lastName='TRUE', gender='M', email='clarence.true@msn.com', dob=1993-01-31, dateOfJoining=2014-03-17, salary=58340
